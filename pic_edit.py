@@ -1,5 +1,5 @@
 import cv2
-# тестовый коммент для гитхаба
+# BETABETABETABETA
 # Функция изменения размера изображения
 def resize_picture(picture_path, width, height):
     picture = cv2.imread(picture_path)
